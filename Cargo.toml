@@ -1,0 +1,6 @@
+[package]
+name = "design-patterns"
+version = "0.1.0"
+authors = ["James Carson <jms.crsn@gmail.com>"]
+
+[dependencies]
